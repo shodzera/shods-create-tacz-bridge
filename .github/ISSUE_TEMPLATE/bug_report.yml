@@ -1,0 +1,53 @@
+name: Bug report
+description: Something in Shod's Create and TacZ Bridge does not work
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: "Hobby mod, best-effort support. Please fill in every field. Reports without a log may be closed."
+  - type: input
+    id: mod_version
+    attributes:
+      label: Mod version
+      placeholder: "1.0"
+    validations:
+      required: true
+  - type: input
+    id: versions
+    attributes:
+      label: Create / TacZ / NeoForge versions
+      placeholder: "Create 6.0.10, TacZ 1.1.8-hotfix-r7, NeoForge 21.1.190"
+    validations:
+      required: true
+  - type: dropdown
+    id: side
+    attributes:
+      label: Where does it happen?
+      options:
+        - Singleplayer
+        - Multiplayer server
+        - Both
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened, and what did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Include the recipe, machine or item involved.
+      placeholder: "1. Place a mechanical press over a basin\n2. ..."
+  - type: textarea
+    id: log
+    attributes:
+      label: Log
+      description: "Paste logs/latest.log here, or a link to it (gist, mclo.gs). Crash? Also the crash-reports file."
+      render: shell
+  - type: input
+    id: modpack
+    attributes:
+      label: Modpack (if any)
