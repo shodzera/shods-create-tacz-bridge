@@ -1,8 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Ideas and questions (Modrinth)
-    url: https://modrinth.com/mod/shods-tacz-and-create-bridge
-    about: This repository is for bug reports only. Ideas and questions go in the comments on the mod page.
-  - name: Ideas and questions (CurseForge)
-    url: https://www.curseforge.com/minecraft/mc-mods/shods-create-and-tacz-bridge
-    about: Same as above, if you use CurseForge.
+  - name: Feedback, ideas and questions
+    url: https://github.com/shodzera/shods-create-tacz-bridge/discussions
+    about: Share feedback, suggest ideas or ask questions in Discussions. Issues are for bugs only.

@@ -4,7 +4,7 @@
 
 Build a Create factory that makes every TacZ round, from a brass ingot to a full box of ammo, and recycle the spent casings your guns throw on the ground.
 
-**This repository is for bug reports only.** The mod itself is downloaded from:
+**This repository is the mod's little forum:** report bugs in [Issues](../../issues) and share feedback, ideas or questions in [Discussions](../../discussions). The mod itself is downloaded from:
 
 - **Modrinth:** https://modrinth.com/mod/shods-tacz-and-create-bridge
 - **CurseForge:** https://www.curseforge.com/minecraft/mc-mods/shods-create-and-tacz-bridge
@@ -21,6 +21,10 @@ The source code is not published here.
 
 1. Check the [open issues](../../issues) first: someone may have reported it already.
 2. Open a [new bug report](../../issues/new/choose) and fill in the form. Please attach your `logs/latest.log` (or a link to it): reports without a log are very hard to fix.
+
+## Feedback and ideas?
+
+Post them in [Discussions](../../discussions). Every idea is read, and the good ones may end up in a future update.
 
 ## Support status
 
