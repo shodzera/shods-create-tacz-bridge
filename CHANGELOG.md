@@ -1,3 +1,22 @@
+## Shod's Create and TacZ Bridge 1.1 (unreleased)
+
+<!-- Running log: every change that goes into the 1.1 jar is added here the same day.
+     On release: drop "(unreleased)", copy to docs/changelog_1.1.md and write docs/changelog_1.1_short.md (CurseForge). -->
+
+### New
+- **Four ammo icon styles**, each a built-in resource pack you can pick in Options → Resource Packs: single round with the caliber name (on by default), single round without it ("Clean"), **grouped rounds like default TacZ** with the caliber name ("Grouped"), and grouped without it ("Grouped Clean"). Every pack is complete (icons and 3D ammo boxes); if more than one is on, the top one wins.
+- The same four styles are also available as standalone resource packs for players who use only TacZ.
+- **.300 Blackout**, the new round in TacZ 1.2.0: Primed Brass Casing + Black Dye, pressed on a basin, just like the 5.56 with its Green Dye. Its icon is the 5.56 case with a black tip, in all four styles.
+
+### Changed
+- Shorter caliber names on the icons, so the tip colour stays visible: 5.56, 5.45, 5.8, 5.7, 4.6, 7.92, .22, .45, and x39 / x54R / x25 for the three 7.62 rounds.
+- **Everything stands upright on Create belts:** TacZ ammo (shown as its 3D box where it has one) and the Incomplete Heavy Round now stand like the brass casings already did.
+
+### Compatibility
+- The two packs from 1.0 keep their IDs, so whatever you had switched on stays on.
+- No item IDs changed, and the 24 recipes from 1.0 are the same.
+- **Now requires the official TacZ for NeoForge 1.21.1, 1.2.0 or newer** ([Modrinth](https://modrinth.com/mod/timeless-and-classics-zero) · [CurseForge](https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-zero)). The [UNOFFICIAL] TaCZ 1.21.1 NeoForge Port is no longer supported: it has been taken down since the TacZ team released its own NeoForge version.
+
 ## Shod's Create and TacZ Bridge 1.0
 
 > **Heads-up:** automation built for the 0.8 recipes may stop working, because the recipes changed. Check the new ones in JEI.

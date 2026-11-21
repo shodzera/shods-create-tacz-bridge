@@ -15,7 +15,14 @@ The source code is not published here.
 
 - Minecraft **1.21.1**, NeoForge **21.1.190** or newer
 - **Create** 6.0.6 or newer
-- **TacZ** 1.1.8 or newer ([UNOFFICIAL] TaCZ 1.21.1 NeoForge Port)
+- **TacZ (Timeless and Classics Zero)** ([Modrinth](https://modrinth.com/mod/timeless-and-classics-zero) · [CurseForge](https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-zero)), and the TacZ version depends on the version of this mod:
+
+| This mod | TacZ |
+|---|---|
+| **1.1** and newer | the official TacZ for NeoForge 1.21.1, **1.2.0** or newer |
+| **1.0** | the [UNOFFICIAL] TaCZ 1.21.1 NeoForge Port, 1.1.8 or newer |
+
+The unofficial port is no longer available, because the TacZ team released its own NeoForge 1.21.1 version. If you are installing the mod now, get the official TacZ and version 1.1 of this mod.
 
 ## Found a bug?
 
