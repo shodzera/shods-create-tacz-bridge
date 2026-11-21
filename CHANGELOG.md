@@ -1,7 +1,4 @@
-## Shod's Create and TacZ Bridge 1.1 (unreleased)
-
-<!-- Running log: every change that goes into the 1.1 jar is added here the same day.
-     On release: drop "(unreleased)", copy to docs/changelog_1.1.md and write docs/changelog_1.1_short.md (CurseForge). -->
+## Shod's Create and TacZ Bridge 1.1
 
 ### New
 - **Four ammo icon styles**, each a built-in resource pack you can pick in Options → Resource Packs: single round with the caliber name (on by default), single round without it ("Clean"), **grouped rounds like default TacZ** with the caliber name ("Grouped"), and grouped without it ("Grouped Clean"). Every pack is complete (icons and 3D ammo boxes); if more than one is on, the top one wins.
